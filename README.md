@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi there, I’m Jason👋</h1>
+<h1></h1>
 
 ###
 
@@ -13,6 +13,10 @@
 ###
 
 <h4 align="center">I’m a Software Engineer with an M.S. in Software Engineering and a passion for building responsive, scalable, and user-friendly applications. I love bridging design + engineering to create digital experiences that actually solve problems.</h4>
+
+###
+
+<h1></h1>
 
 ###
 
